@@ -5,5 +5,5 @@ from .import views
     path('', views.index, name='index')'''
 urlpatterns=[
     
-    path('', views.IndexView.as_view(), name='index')
+    path('', views.home)
 ]
