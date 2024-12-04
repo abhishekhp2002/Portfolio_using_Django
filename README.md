@@ -17,3 +17,8 @@ Django: Backend framework for dynamic content and form handling.
 HTML/CSS: For creating a structured and styled user interface.
 Python: Backend scripting for handling server-side logic.
 Bootstrap: For responsive design and UI components.
+
+
+## Working Model
+
+https://github.com/user-attachments/assets/8f276d1a-d832-4382-8ae3-d086d2d522fa
